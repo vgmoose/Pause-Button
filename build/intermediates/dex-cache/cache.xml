@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ricky/AndroidStudioProjects/Pause-Button1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/ricky/AndroidStudioProjects/Pause-Button1/app/build/intermediates/pre-dexed/release/internal_impl-22.2.0-654b7ccfc3bcbe77aa81e4fbe52eba6cf099f26c.jar" />
+    </item>
+    <item
+        jar="/home/ricky/AndroidStudioProjects/Pause-Button1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/ricky/AndroidStudioProjects/Pause-Button1/app/build/intermediates/pre-dexed/release/classes-d7a4169e0da0be28f0c0d3d4572ccc4a515b2503.jar" />
+    </item>
+    <item
+        jar="/home/ricky/AndroidStudioProjects/Pause-Button1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="27775d59b16610ac76f1b83693fedd9520396332">
+        <dex dex="/home/ricky/AndroidStudioProjects/Pause-Button1/app/build/intermediates/pre-dexed/release/classes-dfeac91df0bf6091b6b277a2792e1f27557e2a9e.jar" />
+    </item>
+    <item
+        jar="/home/ricky/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/ricky/AndroidStudioProjects/Pause-Button1/app/build/intermediates/pre-dexed/release/support-annotations-22.2.0-d5ab41ff0c282d1194913823f17c0e20841878de.jar" />
+    </item>
+    <item
+        jar="/home/ricky/AndroidStudioProjects/Pause-Button1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="/home/ricky/AndroidStudioProjects/Pause-Button1/app/build/intermediates/pre-dexed/release/classes-2a88f0706c86c5391d5e6024a45a1d4338231ddc.jar" />
+    </item>
+
+</items>
